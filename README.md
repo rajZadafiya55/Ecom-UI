@@ -1,4 +1,4 @@
-# Welcome to Thapa Technical React Ecommerce Website Series
+# Welcome to Raj Zadafiya React Ecommerce Website
 
 ## Follow the 3 Steps and you are good to go. 
 
@@ -7,14 +7,3 @@
 2: simply run the command    `npm install`  - First to install all the packages
    
 3: run the project using   `npm start`
-   
-   ------------ 
-   
-###   I also update the Source Code to get the source code guy's please check the `Switch branches/tags` and select the respective video branch for the source code ok.. Also I am creating a List of the video with the Link to the respective video code, you can checkout below 👇  
-
------------- 
-
-- [Main Starter Files of React Ecom Source Code](https://github.com/thapatechnical/thapareactecom/blob/main/README.md)
-
-- [Till Video 6 Source Code - Responsive Navbar](https://github.com/thapatechnical/thapareactecom/tree/react_ecom_navbar_v6) 
-
